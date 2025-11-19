@@ -2,7 +2,7 @@
 /*El bucle for con la variable i que representa el
 numero que se comienza desde 0 hasta 1000*/ 
   if (i % 3 == 0) {
-    console.log("Fizz");
+    console.log("Fizz")
 /*Si el numero que es la variable i es divisible por 3
 se imprime en consola Fizz */
   }
